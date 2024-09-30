@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fintarin/Projects/lois/lois2/build",
+  "command": "/usr/bin/g++ -DINPUT_FILE_PATH=\\\"/home/fintarin/Projects/lois/lois2/resources/input.txt\\\" -DOUTPUT_FILE_PATH=\\\"/home/fintarin/Projects/lois/lois2/resources/output.txt\\\" -I/home/fintarin/Projects/lois/lois2/src -g -std=c++17 -o CMakeFiles/untitled.dir/src/fuzzy_set_types.cpp.o -c /home/fintarin/Projects/lois/lois2/src/fuzzy_set_types.cpp",
+  "file": "/home/fintarin/Projects/lois/lois2/src/fuzzy_set_types.cpp"
+},
+{
+  "directory": "/home/fintarin/Projects/lois/lois2/build",
+  "command": "/usr/bin/g++ -DINPUT_FILE_PATH=\\\"/home/fintarin/Projects/lois/lois2/resources/input.txt\\\" -DOUTPUT_FILE_PATH=\\\"/home/fintarin/Projects/lois/lois2/resources/output.txt\\\" -I/home/fintarin/Projects/lois/lois2/src -g -std=c++17 -o CMakeFiles/untitled.dir/src/main.cpp.o -c /home/fintarin/Projects/lois/lois2/src/main.cpp",
+  "file": "/home/fintarin/Projects/lois/lois2/src/main.cpp"
+}
+]

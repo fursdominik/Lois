@@ -1,0 +1,3 @@
+/home/fintarin/Projects/lois/lois2/build/CMakeFiles/untitled.dir
+/home/fintarin/Projects/lois/lois2/build/CMakeFiles/edit_cache.dir
+/home/fintarin/Projects/lois/lois2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/untitled.dir/src/fuzzy_set_types.cpp.o CMakeFiles/untitled.dir/src/main.cpp.o -o untitled 
